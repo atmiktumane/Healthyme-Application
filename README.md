@@ -32,6 +32,19 @@ Application includes benefits of doing Pranayama and Yoga in order to encourage 
 * Accomplishments of various Pranayamas & details.
 
 ![screenshot_app4](https://user-images.githubusercontent.com/94425889/213101894-3dda4de4-965e-4d7d-959a-7c41100a9216.png)
+<br><br>
+
+* Yoga (Surya Namaskar) & Pranayama steps :
+
+![screenshot_app5](https://user-images.githubusercontent.com/94425889/213102690-bf60a88a-4e99-4ab3-9978-00b3c043e619.png)
+<br><br>
+
+* Contact Page to book free Mental Therapy (Consultation) session with responsive effects
+
+![screenshot_app6](https://user-images.githubusercontent.com/94425889/213103618-3e61b6bb-9a56-407e-a3f2-968471cf691f.png) &nbsp; &nbsp; &nbsp; &nbsp; ![screenshot_app7](https://user-images.githubusercontent.com/94425889/213103949-496268d5-ba78-45df-b14d-33e83d934a99.png)
+
+
+
 
 
 #### Tech and Tools used
@@ -43,5 +56,5 @@ Application includes benefits of doing Pranayama and Yoga in order to encourage 
 
 #### References
 ```
- https://www.yogicwayoflife.com/yoga_pranayama/
+ [Images reference](https://www.yogicwayoflife.com/yoga_pranayama/)
 ```
