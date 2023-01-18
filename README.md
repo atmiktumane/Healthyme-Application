@@ -2,7 +2,7 @@
 
 ### Description :
 <ul>
-A content based web application focusing on mental well-being of elderly people. This is fully responsive application in order to open it on various devices. It includes the productive routine of doing meditation, yoga, etc, to achieve greater calmness and psychological balance within the body. Along with this Free Consultation and Mental Therapy service is provided.
+A content based web application focusing on mental well-being of elderly people. This is fully responsive application in order to open it on various devices. It includes the productive routine of doing meditation, yoga, pranayama, etc, to achieve greater calmness and psychological balance within the body. Along with this Free Consultation and Mental Therapy service is provided.
 </ul>
 <ul>
 However this application emphasizes more towards doing mindfulness activities in less time with proper structured plan & get spiritually connected with our soul
@@ -18,7 +18,7 @@ Application includes benefits of doing Pranayama and Yoga in order to encourage 
 ![screenshot_app1](https://user-images.githubusercontent.com/94425889/213099211-01bb2518-efc2-47bf-ae15-70d13d6bc9ce.png)
 <br><br>
 
-* Daily Routine divided into 2 segments (1hour and 2 hour). And activities are structured accordingly.
+* Daily Routine divided into 2 segments (1hour and 2 hours). And activities are structured accordingly.
 * Free Consultation button which redirects the users to contact page.
 
 ![screenshot_app2](https://user-images.githubusercontent.com/94425889/213100262-4e39b3b2-44e8-4dd9-bb82-5e5c8d15a36c.png)
@@ -56,5 +56,7 @@ Application includes benefits of doing Pranayama and Yoga in order to encourage 
 
 #### References
 ```
- [Images reference](https://www.yogicwayoflife.com/yoga_pranayama/)
+ 1) https://www.yogicwayoflife.com/yoga_pranayama/
+ 2) https://fonts.google.com/
+ 3) https://cdnjs.com/
 ```
